@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft:block/acacia_trapdoor",
+    "up": "minecraft:block/acacia_log_top",
+    "north": "minecraft:block/bookshelf",
+    "east": "minecraft:block/cartography_table_side2",
+    "south": "minecraft:block/bamboo_block",
+    "west": "minecraft:block/brain_coral_block",
+    "particle": "minecraft:block/acacia_trapdoor"
+  },
+  "render_type": "solid"
+}

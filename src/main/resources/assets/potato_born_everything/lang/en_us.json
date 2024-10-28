@@ -1,0 +1,11 @@
+{
+  "block.potato_born_everything.potato_wheel": "Potato Wheel",
+  "tooltip.potato_born_everything.potato_wheel_line1": "It is relatively fragile, so it cannot be placed next to an already rotating wheel or on a transmission rod.",
+  "tooltip.potato_born_everything.potato_wheel_line2": "At the same time, the gear will consume durability, 1 point per tick * every 16 rotational speeds. If it is less than 16, it will be calculated as 16.",
+  "block.potato_born_everything.potato_barrel": "Potato Barrel",
+  "config.jade.plugin_potato_born_everything.jade.potato_barrel": "Potato Barrel",
+  "jade.potato_barrel": "Potato Barrel",
+  "pbj.potato_barrel_empty": "empty",
+  "pbj.potato_barrel_full": "translating: %d ticks",
+  "pbj.potato_barrel_finish": "Finish"
+}

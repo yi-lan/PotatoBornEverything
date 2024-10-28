@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "potato_born_everything:block/potato_wheel",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "potato_born_everything:block/potato_wheel"
+    },
+    "axis=z": {
+      "model": "potato_born_everything:block/potato_wheel",
+      "x": 90,
+      "y": 180
+    }
+  }
+}

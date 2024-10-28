@@ -1,0 +1,11 @@
+{
+  "block.potato_born_everything.potato_wheel": "马铃薯齿轮",
+  "tooltip.potato_born_everything.potato_wheel_line1": "比较脆弱，因此不能放在已经处于旋转状态的齿轮旁或传动杆上。",
+  "tooltip.potato_born_everything.potato_wheel_line2": "同时，该齿轮会消耗耐久，每刻*每16转速消耗1点，不足16按16计算。",
+  "block.potato_born_everything.potato_barrel": "薯桶",
+  "config.jade.plugin_potato_born_everything.jade.potato_barrel": "PB",
+  "jade.potato_barrel": "PB",
+  "pbj.potato_barrel_empty": "空",
+  "pbj.potato_barrel_full": "转化中: %d 刻",
+  "pbj.potato_barrel_finish": "完成"
+}

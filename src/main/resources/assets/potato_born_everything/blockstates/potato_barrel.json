@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "potato_barrel=empty": {
+      "model": "potato_born_everything:block/potato_barrel_empty"
+    },
+    "potato_barrel=full": {
+      "model": "potato_born_everything:block/potato_barrel_full"
+    },
+    "potato_barrel=finish": {
+      "model": "potato_born_everything:block/potato_barrel_finish"
+    }
+  }
+}
